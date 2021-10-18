@@ -12,3 +12,7 @@ Simple Calculator project is just a small pratice of using HTML, CSS and Javascr
 - Review the syntax of HTML and CSS
 - Review the usage of flex box, grid display
 - Practice using eventListener in JavaScript
+
+
+## Demo
+![](images/Demo-Picture.png)
