@@ -15,4 +15,4 @@ Simple Calculator project is just a small pratice of using HTML, CSS and Javascr
 
 
 ## Demo
-![](images/Demo-Picture.png)
+![](Simple%20Calculator/Demo-Picture.png)
